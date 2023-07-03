@@ -10,7 +10,7 @@
  <div> 
   <a href="https://github.com/TheeusSilva">
   <img height="45%" src="https://github-readme-stats.vercel.app/api?username=TheeusSilva&show_icons=true"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheeusSilva&langs_count=8"/>
+  <img height="195cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheeusSilva&langs_count=8"/>
 </div>
 
 <div>
